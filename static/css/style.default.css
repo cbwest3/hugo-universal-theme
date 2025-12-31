@@ -2526,7 +2526,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #EED3BE;
   padding: 50px 0;
   color: #999999;
 }
@@ -2622,7 +2622,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: var(--primary-accent);
 }
 #copyright {
-  background: #333;
+  background: #603819;
   color: #ccc;
   padding: 50px 0;
   font-size: 12px;
