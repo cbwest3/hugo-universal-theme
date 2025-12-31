@@ -36,7 +36,6 @@
                               {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
                                   {{ $createdAt = replace $createdAt $month (i18n $month) }}
                               {{ end }}
-                              {{ $createdAt }}
                             {{ end }}
                           </p>
                         {{ end }}
